@@ -1,0 +1,1 @@
+export const baseUrl = 'https://staging.recruitcrm.net/v1/login';
